@@ -1,4 +1,4 @@
-é um programa JavaScript, com cinco exercícios diferentes, cada um contendo uma tarefa específica. Os exercícios são:
+ com cinco exercícios diferentes, cada um contendo uma tarefa específica. Os exercícios são:
 
 Exercício 1: Criar um Array de Números Aleatórios A função createRandomArray gera um array de números aleatórios com tamanho específico, valor mínimo e valor máximo. Ela utiliza um forloop para iterar diversas vezes, gerando um número aleatório entre o mínimo e máximo utilizando a função Math. random()e Math. floor(). Os números são armazenados em um array e, posteriormente, retornados.
 
@@ -10,7 +10,6 @@ Exercício 4: Concatenar matrizes A função concatenaArrays permite unir duas m
 
 Exercício 5: Função principal A função main é o ponto de início do programa. Ela invoca cada uma das funções anteriores em ordem, registrando no console os valores de entrada e saída de cada função. Ela cria um conjunto de números aleatórios, encontra o elemento com maior frequência, remove elementos repetidos e une o conjunto original ao conjunto sem repetições.
 
-Aqui está uma análise passo a passo da mainfunção:Aqui está uma análise passo a passo da mainfunção:
 
 Usando a função gerarArrayAleatorio, ele cria uma matriz com 10 números aleatórios variando entre 1 e 100.
 Usando a função elementoMaisFrequente, ele identifica o elemento que ocorre com maior frequência na matriz.
